@@ -1,4 +1,4 @@
-FROM node 
+FROM node:18.2.0-buster-slim 
 
 RUN mkdir /usr/src/app
 
